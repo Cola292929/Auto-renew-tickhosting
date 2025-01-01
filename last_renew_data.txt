@@ -1,4 +1,4 @@
 Server ID: bbe697bd
-Renew status: Failed
-Last renewal time: 2024-12-29 01:47:38
-Error: Time not extended
+Renew status: Success
+Last renewal time: 2025-01-01 01:46:41
+New expiration time: 2025-01-12 12:42:07
